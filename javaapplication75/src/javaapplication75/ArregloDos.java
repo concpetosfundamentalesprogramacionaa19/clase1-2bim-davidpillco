@@ -18,6 +18,7 @@ public class ArregloDos {
         // TODO code application logic here
         
         int[] c; // declaramos la variable
+        
         c = new int[12];
         
         String[] b = new String[100];

@@ -21,7 +21,7 @@ public class Ejemplo3 {
         int[] datos = new int[3];
         String[] rangos = {"0-100", "101-199", "200-adelante"};
         
-        int cantidad = 1000;
+        int cantidad = 199;
         if(cantidad <=100){
             datos[0] = datos[0] + 1;
         }else{
